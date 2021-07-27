@@ -1,0 +1,2 @@
+A user can input the image of the food, and using this as input Calorie Manager can calculate the remaining calories user can intake in rest of the day depending upon their calorie goal.
+The source of the data for the food nutrients and calories is Bite.ai food API.
